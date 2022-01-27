@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x710152d91ed6b574fe6baf6bf466a3fb32a1a1f2d270d73835089136fbb8dada",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x710152d91ed6b574fe6baf6bf466a3fb32a1a1f2d270d73835089136fbb8dada",
+  "CONTRACT_ADDRESS": "0xba7fda83f482072a50812d469c7a307148a508ee52e6f3f204d682d807764258",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xba7fda83f482072a50812d469c7a307148a508ee52e6f3f204d682d807764258",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -10,9 +10,9 @@
   "SYMBOL": "WTGNFT",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/winston-the-grey-vjjp2awarg",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/winston-the-grey-lvfey9yxeb",
   "SHOW_BACKGROUND": true
 }
