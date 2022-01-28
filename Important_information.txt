@@ -1,0 +1,14 @@
+Deploy string:
+Winston the Grey,WTGNFT,ipfs://QmRqn72vSWSARXQpuiS5Uq8oC3p7iAJMeVk8v6DHojVDZS/
+
+Minting:
+0x91d2Ca1CCA845E341E51630c1D88bC8b50950E83,1
+
+Wallet ID:
+0x91d2ca1cca845e341e51630c1d88bc8b50950e83
+
+contract ID:
+0x8a03f74383463Bd7469679bebe7e28f367e7Cd10
+
+Opensea Scanlink:
+https://mumbai.polygonscan.com/tx/0xd4c35ecc909802d205fb69c658edeaae87ab5171b4da29247d843e47e17b0d71

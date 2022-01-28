@@ -2,14 +2,14 @@
   "CONTRACT_ADDRESS": "0x8a03f74383463Bd7469679bebe7e28f367e7Cd10",
   "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xd4c35ecc909802d205fb69c658edeaae87ab5171b4da29247d843e47e17b0d71",
   "NETWORK": {
-    "NAME": "Matic Mumbai",
+    "NAME": "Testnet",
     "SYMBOL": "Matic",
     "ID": 80001
   },
   "NFT_NAME": "Winston the Grey",
   "SYMBOL": "WTGNFT",
   "MAX_SUPPLY": 1000,
-  "WEI_COST": 50000000,
+  "WEI_COST": 0,
   "DISPLAY_COST": 0.03,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",

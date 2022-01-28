@@ -84,6 +84,7 @@ export const connect = () => {
           dispatch(connectFailed(`Change network to ${CONFIG.NETWORK.NAME}.`));
         }
       } catch (err) {
+        console.error(err);
         dispatch(connectFailed("Something went wrong."));
       }
     } else {
