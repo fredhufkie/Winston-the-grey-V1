@@ -8,7 +8,7 @@ Wallet ID:
 0x91d2ca1cca845e341e51630c1d88bc8b50950e83
 
 contract ID:
-0xa250Af66cbCfeAd34c9FF896B2aC31EaCb559080
+0x5d0f28078031FfC0585D81aEcE473BdE99Ab1d87
 
 Opensea Scanlink:
-https://mumbai.polygonscan.com/tx/0xb9c99cfdadd6dcb38b43ff8cc754805ad9de28dbb62a50b5edf161dbb2bb4542
+https://mumbai.polygonscan.com/tx/0x308de5ab67a2467bc9a13736d329c203a166271a10531187cb8bc063aa779611
