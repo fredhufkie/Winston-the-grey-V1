@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x0B46b8b9066B757B61ea873Ce527fc7619818470",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x94093b414f8490973af5e1bfeaac342cc2deb682ca5119604b0f929cc9a9aefc",
+  "CONTRACT_ADDRESS": "0xDc919bd4E23d5bcCf7d9DBeA51326A04F842EBD7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x561bb1bbc25be97258bf1606971614adf73e053d6292b7d869ee4d20e40fd6f1",
   "NETWORK": {
     "NAME": "Testnet",
     "SYMBOL": "Matic",
